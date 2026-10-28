@@ -1,0 +1,11 @@
+*.asv
+*.autosave
+slprj/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.avi
+*.mp4
+*.docx
+*.pdf
